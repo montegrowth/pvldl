@@ -990,6 +990,11 @@ details {
 
 @media (max-width: 960px) {
 
+    #mensagem {
+        font-size: 15px;
+
+    }
+
     .sec1{
         display: none;
     }
@@ -1022,7 +1027,7 @@ details {
     .listicon {
         gap: 10px;
         border-radius: 50em;
-        padding: 8px;
+        padding: 4px;
         background: linear-gradient(126deg, #70ff9600 0%, #70ff952e 100%);
         display: flex;
         font-size: 14px;
