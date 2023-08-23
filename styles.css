@@ -1025,7 +1025,7 @@ details {
         padding: 8px;
         background: linear-gradient(126deg, #70ff9600 0%, #70ff952e 100%);
         display: flex;
-        font-size: 16px;
+        font-size: 14px;
         flex-direction: row-reverse;
         align-items: center;
         justify-content: space-between;
@@ -1063,10 +1063,8 @@ details {
     .sec1-icons-mobile {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 5px;
         text-align: center;
-        font-size: 16px;
-        font-weight: 600;
         color: #fff;
         text-transform: uppercase;
     }
@@ -1078,7 +1076,7 @@ details {
 
     .sec1-div-mobile img{
         max-width: 100%;
-        width: 575px;
+        width: 250px;
     }
 
     .sec1-mobile img.selo {
@@ -1222,6 +1220,10 @@ details {
         font-size: 30px !important;
         line-height: 1em;
         text-transform: uppercase;
+    }
+
+    .sec1-mobile h1{
+        font-size: 25px !important;
     }
 
     .benefit{
